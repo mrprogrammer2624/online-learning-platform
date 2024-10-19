@@ -1,0 +1,116 @@
+export const allCourses = [
+  {
+    id: "1",
+    title: "Introduction to React",
+    description: "Learn the basics of React and build your first app",
+    instructor: "John Doe",
+    category: "Web Development",
+    difficulty: "Beginner",
+    featured: true,
+  },
+  {
+    id: "2",
+    title: "Advanced JavaScript Patterns",
+    description: "Master advanced JavaScript concepts and design patterns",
+    instructor: "Jane Smith",
+    category: "Programming",
+    difficulty: "Advanced",
+    featured: true,
+  },
+  {
+    id: "3",
+    title: "Python for Data Science",
+    description: "Learn how to use Python for data analysis and visualization",
+    instructor: "David Johnson",
+    category: "Data Science",
+    difficulty: "Intermediate",
+    featured: false,
+  },
+  {
+    id: "4",
+    title: "Machine Learning Fundamentals",
+    description: "Understand the core concepts of machine learning algorithms",
+    instructor: "Emily Brown",
+    category: "Artificial Intelligence",
+    difficulty: "Intermediate",
+    featured: true,
+  },
+  {
+    id: "5",
+    title: "iOS App Development with Swift",
+    description: "Build iOS applications using Swift and Xcode",
+    instructor: "Michael Chen",
+    category: "Mobile Development",
+    difficulty: "Beginner",
+    featured: false,
+  },
+  {
+    id: "6",
+    title: "Cybersecurity Essentials",
+    description:
+      "Learn the fundamentals of network security and ethical hacking",
+    instructor: "Sarah Connor",
+    category: "Information Security",
+    difficulty: "Intermediate",
+    featured: true,
+  },
+  {
+    id: "7",
+    title: "Blockchain and Cryptocurrency",
+    description:
+      "Explore the technology behind blockchain and digital currencies",
+    instructor: "Alex Nakamoto",
+    category: "Emerging Technologies",
+    difficulty: "Advanced",
+    featured: false,
+  },
+  {
+    id: "8",
+    title: "UX/UI Design Principles",
+    description:
+      "Master the art of creating user-friendly and visually appealing interfaces",
+    instructor: "Olivia Parker",
+    category: "Design",
+    difficulty: "Beginner",
+    featured: true,
+  },
+  {
+    id: "9",
+    title: "Cloud Computing with AWS",
+    description:
+      "Learn to deploy and manage applications on Amazon Web Services",
+    instructor: "Robert Cloud",
+    category: "Cloud Computing",
+    difficulty: "Intermediate",
+    featured: false,
+  },
+  {
+    id: "10",
+    title: "Full Stack Web Development",
+    description:
+      "Become a full stack developer with JavaScript, Node.js, and MongoDB",
+    instructor: "Sophia Rodriguez",
+    category: "Web Development",
+    difficulty: "Advanced",
+    featured: true,
+  },
+];
+
+export const featuredCourses = [
+  {
+    id: "1",
+    title: "Introduction to React",
+    description: "Learn the basics of React and build your first app",
+    instructor: "John Doe",
+    category: "Web Development",
+    difficulty: "Beginner",
+  },
+  {
+    id: "2",
+    title: "Advanced JavaScript Patterns",
+    description: "Master advanced JavaScript concepts and patterns",
+    instructor: "Jane Smith",
+    category: "Programming",
+    difficulty: "Advanced",
+  },
+];
